@@ -1,5 +1,5 @@
 # MacOS 2FA Auto Copy ✉️🔒
-Monitors MacOS Messages app for incoming messages with 2FA codes
+Monitors MacOS Messages app for incoming messages with 2FA codes, copy them to clipboard and mark them as read.
 
 ![Example](https://github.com/ranrib/2fa-macos-auto-copy/blob/main/example.png?raw=true)
 
